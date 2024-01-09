@@ -15,21 +15,21 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![]()
+![](https://github.com/aturenne/codepath-prework-ios101/blob/main/demo.gif)
 
 ## App Brainstorming (Step 4)
 
 Favorite Apps:
 - TikTok
-    > Infinite Scrolling
-    > Direct messages, replying to specific messages
-    > For You Page algorithm
+    - Infinite Scrolling
+    - Direct messages, replying to specific messages
+    - For You Page algorithm
 - VSCO
-    > Photo editing properties
-    > Reposting other images
+    - Photo editing properties
+    - Reposting other images
 - Instagram
-    > Direct Messages, themed conversations
-    > Recommended people to follow
+    - Direct Messages, themed conversations
+    - Recommended people to follow
     
 Ideas:
 - Goal-Tracking App that users could sign up for and follow other friends' goals. Users can write down short term and long term goals that can be placed into different categories (work, travel, mindfulness, fitness, education, etc.). Each goal could have checklist milestones that the user can add and check off when completed. There could also be a home page where a user can see other friends' goals and congratulate them when they complete one. 
